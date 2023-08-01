@@ -1,0 +1,10 @@
+﻿
+<div class="index_partido">
+    @for(int i = 0; i<ViewBag.ListaPartidos.Count; i++){
+            <div class = "logos"> 
+                <h2>@ViewBag.ListaPartidos[i].Nombre.ToUpper()</h2>
+                <img src='~/img/logos/@(ViewBag.ListaPartidos[i].Nombre + ".png")'>
+                <a href='@Url.Action("VerDetallePartido", new{idPartido=ViewBag.ListaPartidos[i].IdPartido})'>Ver detalles del partido</a>                
+            </div>
+    }
+</div>

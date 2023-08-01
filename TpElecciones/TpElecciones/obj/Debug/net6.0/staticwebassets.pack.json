@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TPBase.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TPBase.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\diputados\\adolfo bermejo.png",
+      "PackagePath": "staticwebassets\\img\\candidatos\\diputados\\adolfo bermejo.png"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\diputados\\carolina arricau.png",
+      "PackagePath": "staticwebassets\\img\\candidatos\\diputados\\carolina arricau.png"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\diputados\\estefania banini.png",
+      "PackagePath": "staticwebassets\\img\\candidatos\\diputados\\estefania banini.png"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\diputados\\gustavo alfaro.png",
+      "PackagePath": "staticwebassets\\img\\candidatos\\diputados\\gustavo alfaro.png"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\diputados\\julian bedoya.png",
+      "PackagePath": "staticwebassets\\img\\candidatos\\diputados\\julian bedoya.png"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\diputados\\martin palermo.png",
+      "PackagePath": "staticwebassets\\img\\candidatos\\diputados\\martin palermo.png"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\diputados\\miguel angel russo.png",
+      "PackagePath": "staticwebassets\\img\\candidatos\\diputados\\miguel angel russo.png"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\diputados\\yamila rodriguez.png",
+      "PackagePath": "staticwebassets\\img\\candidatos\\diputados\\yamila rodriguez.png"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\senadores\\Axel Kleiman.jpg",
+      "PackagePath": "staticwebassets\\img\\candidatos\\senadores\\Axel Kleiman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\senadores\\Juan Roman Riquelme.jpg",
+      "PackagePath": "staticwebassets\\img\\candidatos\\senadores\\Juan Roman Riquelme.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\senadores\\carmen alvarez rivero.jpg",
+      "PackagePath": "staticwebassets\\img\\candidatos\\senadores\\carmen alvarez rivero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\senadores\\dionisio scarpin.jpg",
+      "PackagePath": "staticwebassets\\img\\candidatos\\senadores\\dionisio scarpin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\senadores\\jorge ameal.jpg",
+      "PackagePath": "staticwebassets\\img\\candidatos\\senadores\\jorge ameal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\senadores\\mariano recalde.jpg",
+      "PackagePath": "staticwebassets\\img\\candidatos\\senadores\\mariano recalde.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\senadores\\martin demichelis.jpg",
+      "PackagePath": "staticwebassets\\img\\candidatos\\senadores\\martin demichelis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\candidatos\\senadores\\silvia sapag.jpg",
+      "PackagePath": "staticwebassets\\img\\candidatos\\senadores\\silvia sapag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\creditos\\fotocreditos.jpg",
+      "PackagePath": "staticwebassets\\img\\creditos\\fotocreditos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\logos\\argentina.png",
+      "PackagePath": "staticwebassets\\img\\logos\\argentina.png"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\logos\\boca.png",
+      "PackagePath": "staticwebassets\\img\\logos\\boca.png"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\logos\\frente de todos.png",
+      "PackagePath": "staticwebassets\\img\\logos\\frente de todos.png"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\logos\\juntos por el cambio.png",
+      "PackagePath": "staticwebassets\\img\\logos\\juntos por el cambio.png"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\img\\logos\\partido liberal.png",
+      "PackagePath": "staticwebassets\\img\\logos\\partido liberal.png"
+    },
+    {
+      "Id": "C:\\Users\\Ivan\\Documents\\Programacion\\TpElecciones\\TpElecciones\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TPBase.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TPBase.props",
+      "PackagePath": "build\\TPBase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TPBase.props",
+      "PackagePath": "buildMultiTargeting\\TPBase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TPBase.props",
+      "PackagePath": "buildTransitive\\TPBase.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

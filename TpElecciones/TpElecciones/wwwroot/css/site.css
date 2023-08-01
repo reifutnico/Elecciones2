@@ -1,0 +1,221 @@
+html {
+  font-size: 14px;
+  position: relative;
+  min-height: 100%;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  margin: 20px 60px 0px 20px;
+}
+
+footer {
+  position: fixed; 
+  bottom: 0; 
+  margin: 10px 0px 20px 0px;
+}
+
+
+.img_nav
+{
+width: 100px;
+height: 100px;
+}
+.logos img
+{
+width: 150px;
+height: 150px;
+margin: 20px;
+}
+
+.index_partido a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.index_partido a:hover, a:active {
+  background-color: green;
+  color: white;
+}
+
+/* styles.css */
+
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Encabezado */
+header {
+  background-color: #00ADEF;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Títulos */
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  color: #00ADEF;
+  margin-bottom: 10px;
+}
+
+/* Enlaces */
+a {
+  color: #00ADEF;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #0085B0; /* Celeste más oscuro al hacer hover */
+}
+
+/* Créditos */
+.creditos {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.creditos h1 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.fotocreditos img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Información del candidato */
+.Info.Candidato {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Info.Candidato h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.Info.Candidato img {
+  max-width: 250px; /* Aumentamos el tamaño de las imágenes */
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+
+.detalle_partido {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.detalle_partido h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.detalle_partido p {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.patata {
+  display: flex;
+  flex-direction: row;
+}
+
+.index_partido {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.index_partido h2 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.index_partido a {
+  color: #00ADEF;
+}
+
+.index_partido img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.index_partido img:hover {
+  transform: scale(1.1);
+}
+
+
+footer {
+  background-color: #F7D000;
+  color: #333;
+  text-align: center;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+/* Estilos para el navbar */
+nav {
+  background-color: #00ADEF;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 200%;
+  
+}
+
+nav img {
+  max-width: 250px;
+}
+
+
+
+
+
+

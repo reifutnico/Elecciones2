@@ -1,0 +1,39 @@
+
+<div class="detalle_partido">
+    <div>
+        <h1>@ViewBag.Partido.Nombre</h1>
+    </div>
+    <div>
+        <p>Sitio Web: </p> <a href="@ViewBag.Partido.SitioWeb">@ViewBag.Partido.SitioWeb</a>
+        <p>Fecha de Fundacion: @ViewBag.Partido.FechaFundacion</p>
+        <p>Cantidad de Diputados: @ViewBag.Partido.CantidadDiputados</p>
+        <p>Cantidad de Senadores: @ViewBag.Partido.CantidadSenadores</p>
+    </div>
+    
+   <div class="patata">
+    @for(int i = 0; i<ViewBag.Partido.CantidadDiputados; i++){
+            <h2>@ViewBag.ListaCandidatos[i].Nombre @ViewBag.ListaCandidatos[i].Apellido</h2>
+             <div class = "logos">
+            <img src='~/img/candidatos/diputados/@(ViewBag.ListaCandidatos[i].Foto + ".png")'>
+            </div>
+             <div class = "index_partido">
+            <a href='@Url.Action("VerDetalleCandidato", new{idCandidato=ViewBag.ListaCandidatos[i].IdCandidato})'>Ver diputado</a>
+            </div>
+            }
+
+            @for(int i = 2; i<ViewBag.Partido.CantidadSenadores + ViewBag.Partido.CantidadDiputados ; i++){
+            <h2>@ViewBag.ListaCandidatos[i].Nombre @ViewBag.ListaCandidatos[i].Apellido</h2>
+             <div class = "logos">
+            <img src='~/img/candidatos/senadores/@(ViewBag.ListaCandidatos[i].Foto + ".jpg")'>
+            </div>
+            <div class = "index_partido">
+            <a href='@Url.Action("VerDetalleCandidato", new{idCandidato=ViewBag.ListaCandidatos[i].IdCandidato})'>Ver senador</a>
+            </div>
+            }
+            <div class = "index_partido">
+                <a href='@Url.Action("AgregarCandidato", new{idPartido=ViewBag.Partido.IdPartido})'>Añadir Candidato</a>
+                </div>
+</div>
+
+
+</div>
