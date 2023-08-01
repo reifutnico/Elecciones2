@@ -1,0 +1,16 @@
+
+<section class="Info Candidato">
+    <div>
+        <h2>@ViewBag.Candidato.Nombre @ViewBag.Candidato.Apellido</h2>
+        <div class = "FotoCandidato">
+        <img src='~/img/candidatos/senadores/@(ViewBag.Candidato.Foto + ".jpg")'>
+        <img src='~/img/candidatos/diputados/@(ViewBag.Candidato.Foto + ".png")'>
+        <img src="~/img/logos/boca.png" alt="">
+</div>
+        <p>Fecha de nacimiento: @ViewBag.Candidato.FechaNacimiento.ToShortDateString()</p> 
+        <p>Postulacion: @ViewBag.Candidato.Postulacion</p>
+    </div>
+    <div>
+    <a href='@Url.Action("VerDetallePartido", new{idPartido=ViewBag.Candidato.IdPartido})'></a>
+    </div>
+</section>
